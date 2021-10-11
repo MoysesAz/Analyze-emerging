@@ -4,5 +4,5 @@ Esse projeto gráfico ajuda na visualização e insights das variações econôm
 https://www.youtube.com/watch?v=atuqNtGiGww&ab_channel=Mirazev
 
 
-[![Everything Is AWESOME](https://i.imgur.com/rG42y7M.jpg)](https://youtu.be/atuqNtGiGww "Everything Is AWESOME")
+[![Everything Is AWESOME](https://i.imgur.com/QVrMqWU.png)](https://youtu.be/atuqNtGiGww "Everything Is AWESOME")
 
