@@ -1,2 +1,2 @@
-# Analyze-emerging
+# Analyze Emerging
 Analise Econômico de Países Emergentes
